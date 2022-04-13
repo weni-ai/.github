@@ -7,3 +7,17 @@ As a company we're running as a SaaS product with plans based on the communicati
 - [Product documentation](https://docs.weni.ai)
 
 <img src="https://github.com/Ilhasoft/weni-platform/raw/readme-briefing/images/product/home.png" data-canonical-src="https://github.com/Ilhasoft/weni-platform/raw/readme-briefing/images/product/home.png"/>
+
+## Community
+
+- Join our [community chat](https://community-chat.weni.ai) to discuss with our internal team
+- Join [#dev](https://community-chat.weni.ai/channel/dev) for help from the community to development issues
+
+## Get the Latest News
+
+- [Instagram](https://instagram.com/weni.ai)
+- [Blog](https://weni.ai/blog/)
+- [LinkedIn](https://www.linkedin.com/company/weniai)
+- [Youtube](https://www.youtube.com/c/WeniPlatform)
+
+Any other questions, reach out to us at [our website](https://weni.ai) or you can email us directly at [support@weni.ai](mailto:support@weni.ai).
