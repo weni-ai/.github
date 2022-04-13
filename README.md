@@ -6,4 +6,4 @@ As a company we're running as a SaaS product with plans based on the communicati
 
 - [Product documentation](https://docs.weni.ai)
 
-<img src="https://github.com/Ilhasoft/weni-platform/raw/readme-briefing/images/product/home.png" data-canonical-src="https://github.com/Ilhasoft/weni-platform/raw/readme-briefing/images/product/home.png" width="919" height="511" />
+<img src="https://github.com/Ilhasoft/weni-platform/raw/readme-briefing/images/product/home.png" data-canonical-src="https://github.com/Ilhasoft/weni-platform/raw/readme-briefing/images/product/home.png" width="960" height="530" />
