@@ -1,0 +1,1 @@
+<img src="https://github.com/Ilhasoft/weni-platform/raw/main/logos/png/weni-396x129-color.png" data-canonical-src="https://github.com/Ilhasoft/weni-platform/raw/main/logos/png/weni-396x129-color.png" width="396" />
