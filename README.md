@@ -40,6 +40,29 @@ Weni Platform contemplates a set of modules with its own micro-services and micr
 | 🧩 [indexer](https://github.com/ilhasoft/rp-archiver)         | Service responsible for indexing rapidpro contacts into ElasticSearch |
 | 🧩 [archiver](https://github.com/ilhasoft/rp-indexer)         | Service responsible of archiving messages and flow runs to optimize database |
 
+## Contributing
+
+**We are looking for collaboration from the Open Source community!** There's so much we want to do, 
+including but not limited to: enhancing existing applications with new features, 
+optimizing the NLP tasks and algorithms involved that boost accuracy, new communication channels and integrations.
+
+* Please read our [contribution guidelines](https://github.com/ilhasoft/weni-platform/blob/main/.github/CONTRIBUTING.md) 
+for details on what and how you can contribute.
+
+* Report a bug by using [this guideline](https://github.com/ilhasoft/weni-platform/blob/main/.github/CONTRIBUTING.md#report-a-bug) 
+for details on what and how you can contribute.
+
+## Using the issue tracker
+
+The issues created here will be analysed and validated. They can be submitted to [this repository](https://github.com/ilhasoft/weni-platform) or in the respective module exposed in the [modules table](https://github.com/Ilhasoft/weni-platform/tree/main#modules).
+
+The issue tracker is the preferred channel for [bug reports](https://github.com/ilhasoft/weni-platform/blob/main/.github/CONTRIBUTING.md#report-a-bug) and [features requests](#features), but please respect the following restrictions:
+
+- Please **do not** use the issue tracker for personal support requests (send an email to bothub@ilhasoft.com.br).
+
+- Please **do not** derail or troll issues. Keep the discussion on topic and respect the opinions of others.
+
+<a name="features"></a>
 
 ## Get the Latest News
 
