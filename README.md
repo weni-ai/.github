@@ -13,12 +13,13 @@ As a company we're running as a SaaS product with plans based on the communicati
 - Join our [community chat](https://community-chat.weni.ai) to discuss with our internal team
 - Join [#dev](https://community-chat.weni.ai/channel/dev) for help from the community to development issues
 
-## Micro-services
+## Modules
 
-Weni Platform contemplates a set of micro-services and micro front-ends applications to enable its whole functionalities, each one has a specific repository with its own instructions in how-to-deploy, the table below detail them by using the symbol 🖥️  for front-end components, ⚙️ for back-end components that contains businesses rules and 🧩 for micro-services that are used internally for a specific task.
+Weni Platform contemplates a set of modules with its own micro-services and micro front-ends applications to enable its whole functionalities, each one has a specific repository with its own instructions in how-to-deploy, the table below details them by using the symbol 🖥️  for front-end components, ⚙️ for back-end components that contain businesses rules and 🧩 for micro-services that are used internally for a specific task.
 
-| Dash                                                         | **Skeleton and connection between modules**                  |
+| Modules                                                       |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Dash**                                                     | **Skeleton and connection between modules**                  |
 | 🖥️ [webapp](https://github.com/Ilhasoft/weni-webapp)          | Front-end component that enables organization management and connection of other micro front-end apps |
 | ⚙️ [engine](https://github.com/Ilhasoft/weni-engine)          | Back-end component that manages the organization business rules and the connection of other micro-services that are part of the architecture |
 | **Academy**                                                  | **Video-based learning module of the platform**              |
