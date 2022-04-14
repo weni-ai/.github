@@ -58,7 +58,7 @@ The issues created here will be analysed and validated. They can be submitted to
 
 The issue tracker is the preferred channel for [bug reports](https://github.com/ilhasoft/weni-platform/blob/main/.github/CONTRIBUTING.md#report-a-bug) and [features requests](#features), but please respect the following restrictions:
 
-- Please **do not** use the issue tracker for personal support requests (send an email to bothub@ilhasoft.com.br).
+- Please **do not** use the issue tracker for personal support requests (send an email to [support@weni.ai](mailto:support@weni.ai)).
 
 - Please **do not** derail or troll issues. Keep the discussion on topic and respect the opinions of others.
 
