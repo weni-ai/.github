@@ -54,7 +54,7 @@ for details on what and how you can contribute.
 
 ## Using the issue tracker
 
-The issues created here will be analysed and validated. They can be submitted to [this repository](https://github.com/ilhasoft/weni-platform) or in the respective module exposed in the above table.
+The issues created here will be analysed and validated. They can be submitted to [this repository](https://github.com/ilhasoft/weni-platform) or in the respective module exposed in the [modules table](https://github.com/Ilhasoft/weni-platform/tree/main#modules).
 
 The issue tracker is the preferred channel for [bug reports](https://github.com/ilhasoft/weni-platform/blob/main/.github/CONTRIBUTING.md#report-a-bug) and [features requests](#features), but please respect the following restrictions:
 
