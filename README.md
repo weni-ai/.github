@@ -54,6 +54,10 @@ for details on what and how you can contribute.
 * Report a bug by using [this guideline](https://github.com/ilhasoft/weni-platform/blob/main/.github/CONTRIBUTING.md#report-a-bug) 
 for details on what and how you can contribute.
 
+## Public roadmap
+
+The roadmap of solutions we're working on at the moment is publicly available [on this page](https://bit.ly/weni-roadmap) and we're willing to get your contributions to it.
+
 ## Using the issue tracker
 
 The issues created here will be analysed and validated. They can be submitted to [this repository](https://github.com/ilhasoft/weni-platform) or in the respective module exposed in the [modules table](https://github.com/Ilhasoft/weni-platform/tree/main#modules).
