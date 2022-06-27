@@ -10,6 +10,10 @@ As a company we're running as a SaaS product with plans based on the communicati
 
 <img src="https://github.com/Ilhasoft/weni-platform/raw/main/images/product/home.png" data-canonical-src="https://github.com/Ilhasoft/weni-platform/raw/main/images/product/home.png"/>
 
+## Open-Source Governance
+
+Weni open-source governance is based on opening all its software parts under terms of an open-source license to reach potential users and partners mainly. Secondly, Weni wants to reach developers by building a community for some pieces that are more reusable in other businesses or software projects, such as NLP models or tools. Besides that, the openness of our software is also related to building trust by enabling our external stakeholders to audit the security of our software.
+
 ## Community
 
 - Join our [community chat](https://community-chat.weni.ai) to discuss with our internal team
