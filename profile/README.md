@@ -42,8 +42,8 @@ Weni Platform contemplates a set of modules with its own micro-services and micr
 | **Flows/Studio**                                             | **Messaging data workflow**                                  |
 | ⚙️ [flows](https://github.com/weni-ai/flows)                  | Back-end component to support the whole message workflow     |
 | 🧩 [courier](https://github.com/weni-ai/courier)             | Message gateway for communication channels (e.g. WhatsApp, Telegram, Instagram, etc.) |
-| 🧩 [mailroom](https://github.com/weni-ai/mailroom)           | Service responsible for heavy lifting jobs on behalf of rapidpro |
-| 🧩 [indexer](https://github.com/weni-ai/rp-archiver)         | Service responsible for indexing rapidpro contacts into ElasticSearch |
+| 🧩 [mailroom](https://github.com/weni-ai/mailroom)           | Service responsible for heavy lifting jobs on behalf of flows |
+| 🧩 [indexer](https://github.com/weni-ai/rp-archiver)         | Service responsible for indexing flows contacts into ElasticSearch |
 | 🧩 [archiver](https://github.com/weni-ai/rp-indexer)         | Service responsible of archiving messages and flow runs to optimize database |
 | **Chats**                                             | **Messaging data workflow**                                  |
 | 🖥️ [webapp](https://github.com/weni-ai/chats-webapp)         | Front-end component of the Chats module                    |
