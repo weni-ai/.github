@@ -64,7 +64,7 @@ for details on what and how you can contribute.
 
 ## Public roadmap
 
-The roadmap of solutions we're working on at the moment is publicly available [on this page](https://bit.ly/weni-roadmap) and we're willing to get your contributions to it.
+The roadmap of solutions we're working on at the moment is publicly available [on this page]([https://bit.ly/weni-roadmap](https://github.com/orgs/weni-ai/projects/6/views/1?filterQuery=)) and we're willing to get your contributions to it.
 
 ## Using the issue tracker
 
